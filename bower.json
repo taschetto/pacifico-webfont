@@ -1,0 +1,26 @@
+{
+  "name": "pacifico-webfont",
+  "version": "1.0.0",
+  "authors": [
+    "Guilherme Taschetto <gtaschetto@gmail.com>"
+  ],
+  "description": "The Pacifico web font, packaged for Bower",
+  "main": "font.css",
+  "keywords": [
+    "pacifico",
+    "webfont"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/taschetto/pacifico-webfont",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.png",
+    "index.html",
+    "readme.txt",
+    "README.md"
+  ]
+}
